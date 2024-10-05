@@ -1,5 +1,3 @@
-Aqui está a versão personalizada e cheia de emojis do seu markdown:
-
 # 🐍 Banco Píton 🏦
 
 ### Bem-vindo(a) ao **Banco Píton**! 🎉
